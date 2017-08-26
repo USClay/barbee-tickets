@@ -31,6 +31,8 @@ html {
   src:url("../fonts/Aileron-Italic.otf");
 }
 
+body { padding-top: 50px; }
+
 /*===Navbar===*/
 #logo-nav {
   height: 50px;
